@@ -91,16 +91,15 @@ The goal of this project is to predict house prices based on features from a dat
 house_price_prediction/
 my_fastapi_project/
 │
-├── app/
-│   ├── __init__.py  (optional if inside a package)
-│   ├── main.py      # Contains FastAPI app
-│   ├── model.py     # Contains train_model, make_predictions
-│   ├── preprocess.py
-│   └── utils.py
+
+├── __init__.py  (optional if inside a package)
+├── main.py      # Contains FastAPI app
+├── model.py     # Contains train_model, make_predictions
+├── preprocess.py
+└── utils.py
 │
-├── data/
-│   ├── train.csv
-│   └── test.csv
+├── train.csv
+└── test.csv
 │
 ├── requirements.txt
 └── ...
