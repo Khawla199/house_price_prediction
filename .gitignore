@@ -1,0 +1,18 @@
+# Ignore system files
+*.log
+*.dat
+.DS_Store
+.idea/
+.vscode/
+.anaconda/
+.conda/
+.continuum/
+OneDrive/
+AppData/
+Desktop/
+Documents/
+Downloads/
+Music/
+Pictures/
+Videos/
+.venv/
